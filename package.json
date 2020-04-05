@@ -1,6 +1,6 @@
 {
   "name": "@mihanizm56/node-file-copier",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "file copier",
   "main": "dist/index.js",
   "scripts": {
@@ -9,9 +9,6 @@
     "pub": "npm publish --access=public",
     "size": "pkgfiles",
     "build": "webpack"
-  },
-  "bin": {
-    "@mihanizm56/node-file-copier": "./execute/runner.js"
   },
   "repository": {
     "type": "git",
